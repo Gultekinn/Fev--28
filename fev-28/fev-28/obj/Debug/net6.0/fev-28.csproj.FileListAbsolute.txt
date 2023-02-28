@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\fev-28\fev-28\bin\Debug\net6.0\fev-28.exe
+C:\Users\Acer\Desktop\fev-28\fev-28\bin\Debug\net6.0\fev-28.deps.json
+C:\Users\Acer\Desktop\fev-28\fev-28\bin\Debug\net6.0\fev-28.runtimeconfig.json
+C:\Users\Acer\Desktop\fev-28\fev-28\bin\Debug\net6.0\fev-28.dll
+C:\Users\Acer\Desktop\fev-28\fev-28\bin\Debug\net6.0\fev-28.pdb
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.AssemblyInfo.cs
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.dll
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\refint\fev-28.dll
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.pdb
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\fev-28.genruntimeconfig.cache
+C:\Users\Acer\Desktop\fev-28\fev-28\obj\Debug\net6.0\ref\fev-28.dll
